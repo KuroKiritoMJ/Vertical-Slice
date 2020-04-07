@@ -2781,3 +2781,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-15.16.35:995][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.07-15.16.36:015][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2020.04.07-15.16.36:034][184]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.07-15.23.30:012][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.07-15.23.42:583][508]LogSavePackage: Moving '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap_Auto986CCC57F44CC2FD21277439C4E7B421E.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2020.04.07-15.23.42:621][508]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 12.649
+[2020.04.07-15.23.42:621][508]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.649
+[2020.04.07-15.25.04:676][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.04.07-15.25.15:742][ 22]LogSavePackage: Moving '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap3B87FA654566FF4482822CA9A17EE1AC.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.07-15.25.20:388][ 22]LogSavePackage: Moving '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap_BuiltData963CFF764921285889ED9A949EFCA4E4.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.04.07-15.25.20:418][ 22]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap_BuiltData963CFF764921285889ED9A949EFCA4E4.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset', retrying in .5s...
+[2020.04.07-15.25.20:919][ 22]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.04.07-15.25.20:995][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-15.25.20:995][ 22]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.07-15.25.20:995][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
