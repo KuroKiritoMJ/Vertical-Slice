@@ -2793,3 +2793,340 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.07-15.25.20:995][ 22]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.07-15.25.20:995][ 22]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.04.07-15.25.20:995][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.04.07-15.55.58:407][258]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_298727' invalid (8292 verts, 0 indices).
+[2020.04.07-15.55.58:407][258]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_298727.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.01:439][377]Cmd: DELETE
+[2020.04.07-15.56.01:439][377]Cmd: ACTOR DELETE
+[2020.04.07-15.56.01:538][377]LogEditorActor: Deleted Actor: Brush
+[2020.04.07-15.56.01:616][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.04.07-15.56.01:995][377]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_300424' invalid (8268 verts, 0 indices).
+[2020.04.07-15.56.01:995][377]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_300424.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.02:450][377]LogEditorActor: Deleted 1 Actors (1.011 secs)
+[2020.04.07-15.56.03:534][427]Cmd: TRANSACTION UNDO
+[2020.04.07-15.56.03:534][427]LogEditorTransaction: Undo Delete Actors
+[2020.04.07-15.56.03:822][427]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_298727' invalid (8292 verts, 0 indices).
+[2020.04.07-15.56.03:822][427]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_298727.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.06:458][540]Cmd: DELETE
+[2020.04.07-15.56.06:458][540]Cmd: ACTOR DELETE
+[2020.04.07-15.56.06:497][540]LogEditorActor: Deleted Actor: Brush
+[2020.04.07-15.56.06:525][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.07-15.56.06:739][540]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_302111' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.06:739][540]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_302111.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.07:520][540]LogEditorActor: Deleted 1 Actors (1.062 secs)
+[2020.04.07-15.56.11:456][744]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.11:456][744]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.15:159][903]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_305471' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.15:159][903]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_305471.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.16:167][923]Cmd: TRANSACTION UNDO
+[2020.04.07-15.56.16:167][923]LogEditorTransaction: Undo Move Actors
+[2020.04.07-15.56.16:462][923]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.16:462][923]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.18:676][  4]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_307151' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.18:676][  4]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_307151.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.19:438][  9]Cmd: TRANSACTION UNDO
+[2020.04.07-15.56.19:439][  9]LogEditorTransaction: Undo Move Actors
+[2020.04.07-15.56.19:746][  9]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.19:746][  9]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_303791.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.23:452][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_308831' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.23:452][183]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_308831.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.29:460][485]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_310511' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.29:460][485]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_310511.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.30:500][501]Cmd: TRANSACTION UNDO
+[2020.04.07-15.56.30:500][501]LogEditorTransaction: Undo Move Actors
+[2020.04.07-15.56.30:784][501]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_308831' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.30:784][501]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_308831.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.35:869][755]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_312191' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.35:870][755]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_312191.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.46:756][352]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_313871' invalid (8192 verts, 0 indices).
+[2020.04.07-15.56.46:756][352]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_313871.BodySetup_0 when we are unable to.
+[2020.04.07-15.56.50:981][538]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_315551' invalid (8200 verts, 0 indices).
+[2020.04.07-15.56.50:981][538]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_315551.BodySetup_0 when we are unable to.
+[2020.04.07-15.57.01:825][146]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-15.57.01:837][146]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-15.57.01:837][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-15.57.01:941][146]PIE: New page: PIE session: FirstPersonExampleMap (Apr 7, 2020, 7:57:01 PM)
+[2020.04.07-15.57.01:941][146]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-15.57.02:291][146]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_315551' invalid (8200 verts, 0 indices).
+[2020.04.07-15.57.02:291][146]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_315551.BodySetup_0 when we are unable to.
+[2020.04.07-15.57.02:308][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366801s)
+[2020.04.07-15.57.02:335][146]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.07-15.57.02:335][146]LogPlayLevel: PIE: World Init took: (0.026437s)
+[2020.04.07-15.57.02:335][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.393382s)
+[2020.04.07-15.57.02:390][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-15.57.02:397][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-15.57.02:397][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-15.57.02:398][146]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-15.57.02:398][146]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: Channel Order:
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-15.57.02:411][146]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-15.57.02:422][146]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2020.04.07-15.57.02:423][146]LogInit: FAudioDevice initialized.
+[2020.04.07-15.57.02:432][146]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.07-15.57.02:495][146]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.07-17.57.02
+[2020.04.07-15.57.02:495][146]LogWorld: Bringing up level for play took: 0.061398
+[2020.04.07-15.57.02:495][146]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.07-15.57.02:511][146]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-15.57.02:511][146]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-15.57.02:511][146]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-15.57.02:511][146]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-15.57.02:511][146]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.849
+[2020.04.07-15.57.02:512][146]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-15.57.02:527][147]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080016 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2020.04.07-15.58.13:473][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-15.58.13:490][392]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-15.58.13:510][392]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-15.58.13:511][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-15.58.13:511][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-15.58.13:511][392]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-15.58.13:511][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-15.58.13:511][392]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-15.58.13:515][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-15.58.13:526][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-15.58.13:527][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-15.58.13:532][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-15.58.13:571][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-15.58.13:574][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-15.58.13:591][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.04.07-15.58.13:616][393]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.07-15.58.18:565][665]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_317232' invalid (8192 verts, 0 indices).
+[2020.04.07-15.58.18:565][665]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_317232.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.22:952][862]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_318909' invalid (8208 verts, 0 indices).
+[2020.04.07-15.58.22:952][862]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_318909.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.25:432][956]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_320586' invalid (8208 verts, 0 indices).
+[2020.04.07-15.58.25:432][956]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_320586.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.28:121][ 59]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_322263' invalid (8208 verts, 0 indices).
+[2020.04.07-15.58.28:121][ 59]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_322263.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.32:606][268]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_323940' invalid (8208 verts, 0 indices).
+[2020.04.07-15.58.32:606][268]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_323940.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.38:657][570]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_325617' invalid (8232 verts, 0 indices).
+[2020.04.07-15.58.38:657][570]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_325617.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.40:409][618]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_327297' invalid (8232 verts, 0 indices).
+[2020.04.07-15.58.40:410][618]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_327297.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.43:850][762]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_328977' invalid (8240 verts, 0 indices).
+[2020.04.07-15.58.43:850][762]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_328977.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.52:692][232]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_330658' invalid (8160 verts, 0 indices).
+[2020.04.07-15.58.52:692][232]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_330658.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.56:168][372]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_332337' invalid (8416 verts, 0 indices).
+[2020.04.07-15.58.56:168][372]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_332337.BodySetup_0 when we are unable to.
+[2020.04.07-15.58.58:756][464]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_334046' invalid (8428 verts, 0 indices).
+[2020.04.07-15.58.58:756][464]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_334046.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.00:717][513]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_335756' invalid (8428 verts, 0 indices).
+[2020.04.07-15.59.00:717][513]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_335756.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.04:084][654]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_337467' invalid (8428 verts, 0 indices).
+[2020.04.07-15.59.04:084][654]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_337467.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.12:019][ 37]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_339177' invalid (8400 verts, 0 indices).
+[2020.04.07-15.59.12:019][ 37]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_339177.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.17:546][297]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_340876' invalid (8492 verts, 0 indices).
+[2020.04.07-15.59.17:546][297]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_340876.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.20:262][392]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_342608' invalid (8484 verts, 0 indices).
+[2020.04.07-15.59.20:262][392]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_342608.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.24:006][530]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_344344' invalid (8460 verts, 0 indices).
+[2020.04.07-15.59.24:006][530]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_344344.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.26:119][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_346076' invalid (8420 verts, 0 indices).
+[2020.04.07-15.59.26:119][594]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_346076.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.28:228][635]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_347807' invalid (8408 verts, 0 indices).
+[2020.04.07-15.59.28:228][635]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_347807.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.33:721][894]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_349538' invalid (8380 verts, 0 indices).
+[2020.04.07-15.59.33:721][894]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_349538.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.36:934][ 14]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_351262' invalid (8476 verts, 0 indices).
+[2020.04.07-15.59.36:934][ 14]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_351262.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.40:681][162]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_352999' invalid (8476 verts, 0 indices).
+[2020.04.07-15.59.40:681][162]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_352999.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.44:104][300]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_354734' invalid (8476 verts, 0 indices).
+[2020.04.07-15.59.44:104][300]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_354734.BodySetup_0 when we are unable to.
+[2020.04.07-15.59.49:072][532]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_356471' invalid (8476 verts, 0 indices).
+[2020.04.07-15.59.49:073][532]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_356471.BodySetup_0 when we are unable to.
+[2020.04.07-16.01.59:108][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint7)
+[2020.04.07-16.02.34:113][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-16.02.34:130][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.02.34:130][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-16.02.34:130][ 52]PIE: New page: PIE session: FirstPersonExampleMap (Apr 7, 2020, 8:02:34 PM)
+[2020.04.07-16.02.34:130][ 52]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.02.34:477][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.347172s)
+[2020.04.07-16.02.34:478][ 52]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.07-16.02.34:478][ 52]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2020.04.07-16.02.34:478][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.348094s)
+[2020.04.07-16.02.34:898][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-16.02.34:944][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-16.02.34:944][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-16.02.34:945][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-16.02.34:945][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: Channel Order:
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-16.02.34:957][ 52]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-16.02.34:969][ 52]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2020.04.07-16.02.34:970][ 52]LogInit: FAudioDevice initialized.
+[2020.04.07-16.02.34:974][ 52]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.07-16.02.34:995][ 52]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.07-18.02.34
+[2020.04.07-16.02.34:995][ 52]LogWorld: Bringing up level for play took: 0.019875
+[2020.04.07-16.02.34:995][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.07-16.02.34:997][ 52]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.02.34:997][ 52]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.02.34:997][ 52]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.02.34:997][ 52]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.02.34:997][ 52]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.334
+[2020.04.07-16.02.35:002][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.02.35:020][ 53]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080016 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2020.04.07-16.02.52:795][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.02.52:800][106]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-16.02.52:820][106]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-16.02.52:821][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.02.52:821][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.02.52:821][106]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.02.52:821][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.02.52:821][106]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-16.02.52:825][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.02.52:834][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-16.02.52:835][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.02.52:841][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.02.52:885][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.02.52:888][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.02.52:902][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.04.07-16.02.52:926][107]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.07-16.03.06:466][754]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-16.03.06:478][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.06:478][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-16.03.06:478][754]PIE: New page: PIE session: FirstPersonExampleMap (Apr 7, 2020, 8:03:06 PM)
+[2020.04.07-16.03.06:478][754]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.03.06:811][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.332476s)
+[2020.04.07-16.03.06:811][754]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.07-16.03.06:812][754]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2020.04.07-16.03.06:812][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.333398s)
+[2020.04.07-16.03.06:867][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-16.03.06:875][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-16.03.06:875][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-16.03.06:876][754]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-16.03.06:876][754]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: Channel Order:
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-16.03.06:888][754]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-16.03.06:899][754]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2020.04.07-16.03.06:900][754]LogInit: FAudioDevice initialized.
+[2020.04.07-16.03.06:911][754]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.07-16.03.06:933][754]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.07-18.03.06
+[2020.04.07-16.03.06:933][754]LogWorld: Bringing up level for play took: 0.021251
+[2020.04.07-16.03.06:934][754]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.07-16.03.06:935][754]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.03.06:935][754]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.03.06:935][754]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.03.06:935][754]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.03.06:935][754]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.273
+[2020.04.07-16.03.06:936][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.06:949][755]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080016 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2020.04.07-16.03.10:486][961]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.03.10:490][961]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-16.03.10:510][961]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-16.03.10:511][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.10:511][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.03.10:511][961]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.03.10:511][961]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.03.10:512][961]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-16.03.10:515][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.03.10:520][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-16.03.10:521][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.10:527][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.03.10:570][961]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.03.10:573][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.03.10:584][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.04.07-16.03.10:609][962]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.07-16.03.24:803][696]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.07-16.03.24:815][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.24:815][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.07-16.03.24:815][696]PIE: New page: PIE session: FirstPersonExampleMap (Apr 7, 2020, 8:03:24 PM)
+[2020.04.07-16.03.24:815][696]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.03.25:181][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366066s)
+[2020.04.07-16.03.25:181][696]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.07-16.03.25:181][696]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2020.04.07-16.03.25:181][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.366984s)
+[2020.04.07-16.03.25:232][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.07-16.03.25:239][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.07-16.03.25:239][696]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.07-16.03.25:239][696]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Is Default: Yes
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: Channel Order:
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.07-16.03.25:251][696]LogAudioMixer: Display: 1: FrontRight
+[2020.04.07-16.03.25:262][696]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2020.04.07-16.03.25:264][696]LogInit: FAudioDevice initialized.
+[2020.04.07-16.03.25:272][696]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.07-16.03.25:294][696]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.07-18.03.25
+[2020.04.07-16.03.25:294][696]LogWorld: Bringing up level for play took: 0.020679
+[2020.04.07-16.03.25:294][696]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.07-16.03.25:296][696]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.03.25:296][696]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.07-16.03.25:296][696]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.03.25:296][696]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.07-16.03.25:296][696]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.367
+[2020.04.07-16.03.25:297][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.03.25:310][697]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080016 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2020.04.07-16.05.08:702][889]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.05.08:710][889]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.07-16.05.08:730][889]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.07-16.05.08:730][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.05.08:731][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.05.08:731][889]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.07-16.05.08:731][889]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.05.08:731][889]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.07-16.05.08:734][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.05.08:744][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.07-16.05.08:745][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.07-16.05.08:750][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.07-16.05.08:794][889]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.07-16.05.08:796][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.07-16.05.08:809][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.04.07-16.05.08:839][890]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.07-16.05.10:487][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.07-16.05.20:329][977]LogSavePackage: Moving '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap0E37F6194B1882AE764E3BA3F2A145A3.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.04.07-16.05.23:508][977]LogSavePackage: Moving '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Saved/FirstPersonExampleMap_BuiltData5146D9954F0F3754DCA5199D82681338.tmp' to '../../../../../../Unity/Vertical-Slice/Vertical_Slice/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.04.07-16.05.23:597][977]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.07-16.05.23:597][977]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.04.07-16.05.23:597][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
